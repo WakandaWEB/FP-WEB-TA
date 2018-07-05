@@ -1,0 +1,44 @@
+#template{
+	height: auto;
+	width: 960px;
+	margin: 10px auto;
+}
+#header{
+	height: 150px;
+	width: 960px;
+	border: 1px solid #000;
+	border-radius: 5px 5px 0 0;
+	padding-bottom: 40px;
+	font-size: 20px;
+	color: black;
+}
+#menu{
+	height: 25px;
+	width: 960px;
+	border: 1px solid #000;
+	margin: 5px 0 5px 0;
+}
+#content{
+	height: 300px;
+	width: 100%;
+}
+#left-content{
+	height: 100%;
+	width: 35%;
+	border: 1px solid #000;
+	float: left;
+}
+#right-content{
+	height: 100%;
+	width: 64%;
+	border: 1px solid #000;
+	float: left;
+	margin-left: 5px;
+}
+#footer{
+	height: 150px;
+	width: 960px;
+	border: 1px solid #000;
+	border-radius: 5px 5px 0 0;
+	margin-top: 5px;
+}
